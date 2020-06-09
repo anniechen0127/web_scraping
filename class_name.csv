@@ -9,3 +9,14 @@ Machine Learning,Stanford University,4.9,Mixed
 Applied Data Science,IBM,4.6,Beginner
 Cloud Architecture with Google Cloud,Google Cloud,4.7,Intermediate
 Cloud Engineering with Google Cloud,Google Cloud,4.7,Intermediate
+classname,partnet_name,rating,difficulty,enrollment-number
+IBM Data Science,IBM,4.6,Beginner,510k
+Introduction to Data Science,IBM,4.6,Beginner,330k
+Python for Everybody,University of Michigan,4.8,Beginner,1.6m
+Google IT Support,Google,4.8,Beginner,380k
+Deep Learning,deeplearning.ai,4.8,Intermediate,720k
+The Science of Well-Being,Yale University,4.9,Mixed,2.6m
+Machine Learning,Stanford University,4.9,Mixed,3.3m
+Applied Data Science,IBM,4.6,Beginner,230k
+Cloud Architecture with Google Cloud,Google Cloud,4.7,Intermediate,330k
+Cloud Engineering with Google Cloud,Google Cloud,4.7,Intermediate,320k
